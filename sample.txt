@@ -1,5 +1,5 @@
 I'm learning Git.
 
-I'm a learner.
+I'm a learner.I'm working hard.
 
-I'm working hard.
+commit - record index status.
